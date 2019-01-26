@@ -1,10 +1,5 @@
 # Bounty Board #
 
-## Demo ##
-
-This project is hosted with GitHub pages and can be found here https://jgoodz.github.io/thebountyzone/
-
-
 ## Deployed Environment ##
 
 This dapp demo is on the Ropsten Test Net and requires metamask to interact with. Below are some Ropsten faucets to get ether:
@@ -48,7 +43,7 @@ Wondering how to set it up? There are two methods for getting started with this 
 Checkout this repo, install dependencies, then start up the project for review:
 
 ```
-> git clone https://github.com/jgoodz/thebountyzone.git 
+> git clone https://github.com/b3h3rkz/thebountyzone/
 > cd thebountyzone
 > npm install
 > npm start
@@ -56,7 +51,7 @@ Checkout this repo, install dependencies, then start up the project for review:
 
 
 #### Not Familiar with Git?
-Click [here](https://github.com/jgoodz/thebountyzone/archive/master.zip) then download the .zip file. Extract the contents of the zip file, then open your terminal, change to the project directory, and run:
+Click [here](https://github.com/b3h3rkz/thebountyzone/archive/master.zip) then download the .zip file. Extract the contents of the zip file, then open your terminal, change to the project directory, and run:
 
 ```
 > npm install
